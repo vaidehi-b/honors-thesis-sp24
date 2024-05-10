@@ -1,0 +1,30 @@
+SDRID,Definition,Data Restriction,DHSID,Alias
+EDEDUCMCPR,Percentage of men with completed primary education,,ED_EDUC_M_CPR,Men with completed primary education
+EDEDUCMCSC,Percentage of men with completed secondary education,,ED_EDUC_M_CSC,Men with completed secondary education
+EDEDUCMDKM,Percentage of men with 'don't know' or missing information on education,,ED_EDUC_M_DKM,Men with don't know or missing information on education
+EDEDUCMHGH,Percentage of men with more than secondary education,,ED_EDUC_M_HGH,Men with more than secondary education
+EDEDUCMNED,Percentage of men with no education,,ED_EDUC_M_NED,Men with no education
+EDEDUCMSPR,Percentage of men with some primary education,,ED_EDUC_M_SPR,Men with some primary education
+EDEDUCMSSC,Percentage of men with some secondary education,,ED_EDUC_M_SSC,Men with some secondary education
+EDEDUCMTOT,Percentage of men: Total,,ED_EDUC_M_TOT,Men's education: Total
+EDEDUCWCPR,Percentage of women with completed primary education,,ED_EDUC_W_CPR,Women with completed primary education
+EDEDUCWCSC,Percentage of women with completed secondary education,,ED_EDUC_W_CSC,Women with completed secondary education
+EDEDUCWDKM,Percentage of women with 'don't know' or missing information on level of education,,ED_EDUC_W_DKM,Women with don't know or missing information on level of education
+EDEDUCWHGH,Percentage of women with more than secondary education,,ED_EDUC_W_HGH,Women with more than secondary education
+EDEDUCWMYR,Median number of years of education completed by women,,ED_EDUC_W_MYR,Median years of education completed [Women]
+EDEDUCWNED,Percentage of women with no education,,ED_EDUC_W_NED,Women with no education
+EDEDUCWNUM,Number of women aged 15-49,,ED_EDUC_W_NUM,Number of women
+EDEDUCWPRI,Percentage of women with primary education,,ED_EDUC_W_PRI,Women with primary education
+EDEDUCWSEH,Percentage of women with secondary or higher education,,ED_EDUC_W_SEH,Women with secondary or higher education
+EDEDUCWSPR,Percentage of women with some primary education,,ED_EDUC_W_SPR,Women with some primary education
+EDEDUCWSSC,Percentage of women with some secondary education,,ED_EDUC_W_SSC,Women with some secondary education
+EDEDUCWTOT,Percentage of women: Total,,ED_EDUC_W_TOT,Women: Total
+EDEDUCWUNW,Number of women aged 15-49 (unweighted),,ED_EDUC_W_UNW,Number of women (unweighted)
+EDGARPBBTH,Percentage of children of primary school age attending primary level,,ED_GARP_B_BTH,Gross primary school attendance rate: Total
+EDGARPBGPI,The ratio of the gross primary school attendance rate for girls to the gross primary school attendance rate for boys,,ED_GARP_B_GPI,Gross parity index for gross primary school attendance
+EDGARPMMAL,Percentage of males of primary school age attending primary level,,ED_GARP_M_MAL,Gross primary school attendance rate: Male
+EDGARPWFEM,Percentage of females of primary school age attending primary level,,ED_GARP_W_FEM,Gross primary school attendance rate: Female
+EDGARSBBTH,Percentage of children of secondary school age attending secondary level,,ED_GARS_B_BTH,Gross secondary school attendance rate: Total
+EDGARSBGPI,The ratio of the gross secondary school attendance rate for girls to the gross secondary school attendance rate for boys,,ED_GARS_B_GPI,Gross parity index for gross secondary school attendance
+EDGARSMMAL,Percentage of males of secondary school age attending secondary level,,ED_GARS_M_MAL,Gross secondary school attendance rate: Male
+EDGARSWFEM,Percentage of females of secondary school age attending secondary level,,ED_GARS_W_FEM,Gross secondary school attendance rate: Female

@@ -1,0 +1,17 @@
+SDRID,Definition,Data Restriction,DHSID,Alias
+CHVACCCBAS,Percentage of children 12-23 months who had received all 8 basic vaccinations,,CH_VACC_C_BAS,Received all 8 basic vaccinations
+CMECMRCCMR,"Probability of dying between the first birthday and the fifth birthday in the five or ten years preceding the survey), per 1,000 children surviving to their first birthday. Estimates are given for ten year periods for all characteristics, but for five year periods only for the national total, by residence, and by sex.",,CM_ECMR_C_CMR,Child mortality rate
+CMECMRCIMR,"Probability of dying before the first birthday in the five or ten years preceding the survey, per 1,000 live births. Estimates are given for ten year periods for all characteristics, but for five year periods only for the national total, by residence, and by sex.",,CM_ECMR_C_IMR,Infant mortality rate
+CMECMRCNNR,"Probability of dying in the first month of life in the five or ten years preceding the survey, per 1,000 live births. Estimates are given for ten year periods for all characteristics, but for five year periods only for the national total, by residence, and by sex.",,CM_ECMR_C_NNR,Neonatal mortality rate
+CMECMRCPNR,"Probability of dying after the first month of life and before the first birthday in the five or ten years preceding the survey, per 1,000 children surviving the first month of life, computed as the difference between the infant and neonatal mortality rates. Estimates are given for ten year periods for all characteristics, but for five year periods only for the national total, by residence, and by sex.",,CM_ECMR_C_PNR,Postneonatal mortality rate
+CMECMRCU5M,"Probability of dying before the fifth birthday in the five or ten years preceding the survey, per 1,000 live births. Estimates are given for ten year periods for all characteristics, but for five year periods only for the national total, by residence, and by sex.",,CM_ECMR_C_U5M,Under-five mortality rate
+CNNUTSCHA2,Percentage of children stunted (below -2 SD of height for age according to the WHO standard),,CN_NUTS_C_HA2,Children stunted
+CNNUTSCWA2,Percentage of children underweight (below -2 SD of weight for age according to the WHO standard),,CN_NUTS_C_WA2,Children underweight
+CNNUTSCWH2,Percentage of children wasted (below -2 SD of weight for height according to the WHO standard),,CN_NUTS_C_WH2,Children wasted
+EDEDUCMCPR,Percentage of men with completed primary education,,ED_EDUC_M_CPR,Men with completed primary education
+EDEDUCMSPR,Percentage of men with some primary education,,ED_EDUC_M_SPR,Men with some primary education
+EDEDUCMSSC,Percentage of men with some secondary education,,ED_EDUC_M_SSC,Men with some secondary education
+EDEDUCWCPR,Percentage of women with completed primary education,,ED_EDUC_W_CPR,Women with completed primary education
+EDEDUCWCSC,Percentage of women with completed secondary education,,ED_EDUC_W_CSC,Women with completed secondary education
+EDEDUCWSPR,Percentage of women with some primary education,,ED_EDUC_W_SPR,Women with some primary education
+EDEDUCWSSC,Percentage of women with some secondary education,,ED_EDUC_W_SSC,Women with some secondary education

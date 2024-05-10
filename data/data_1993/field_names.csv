@@ -1,0 +1,17 @@
+SDRID,Definition,Data Restriction,DHSID,Alias
+CHVACCCBAS,Percentage of children 12-23 months who had received all 8 basic vaccinations,,CH_VACC_C_BAS,Received all 8 basic vaccinations
+CMECMTCCMR,"Probability of dying between the first birthday and the fifth birthday (in the five years preceding the survey) per 1,000 children surviving to their first birthday",,CM_ECMT_C_CMR,Child mortality (5 year periods)
+CMECMTCIMR,"Probability of dying before the first birthday (in the five years preceding the survey) per 1,000 live births",,CM_ECMT_C_IMR,Infant mortality rate (5 year periods)
+CMECMTCNNR,"Probability of dying in the first month of life (in the five years preceding the survey) per 1,000 live births",,CM_ECMT_C_NNR,Neonatal mortality rate (5 year periods)
+CMECMTCPNR,"Probability of dying after the first month of life and before the first birthday (in the five years preceding the survey) per 1,000 children surviving the first month of life, computed as the difference between the infant and neonatal mortality rates",,CM_ECMT_C_PNR,Postneonatal mortality (5 year periods)
+CMECMTCU5M,"Probability of dying before the fifth birthday (in the five years preceding the survey) per 1,000 live births",,CM_ECMT_C_U5M,Under-five mortality rate (5 year periods)
+CNNUTSCHA2,Percentage of children stunted (below -2 SD of height for age according to the WHO standard),,CN_NUTS_C_HA2,Children stunted
+CNNUTSCWA2,Percentage of children underweight (below -2 SD of weight for age according to the WHO standard),,CN_NUTS_C_WA2,Children underweight
+CNNUTSCWH2,Percentage of children wasted (below -2 SD of weight for height according to the WHO standard),,CN_NUTS_C_WH2,Children wasted
+EDEDATMCPR,Percentage of the de facto male household population age 6 and over with some primary education,,ED_EDAT_M_CPR,Male population age 6 and over with completed primary education
+EDEDATMSPR,Percentage of the de facto male household population age 6 and over with no education education,,ED_EDAT_M_SPR,Male population age 6 and over with some primary education
+EDEDATMSSC,Percentage of the de facto male household population age 6 and over with completed primary education,,ED_EDAT_M_SSC,Male population age 6 and over with some secondary education
+EDEDATWCPR,Percentage of the de facto female household population age 6 and over with some primary education,,ED_EDAT_W_CPR,Female population age 6 and over with completed primary education
+EDEDATWCSC,Percentage of the de facto female household population age 6 and over with some secondary education,,ED_EDAT_W_CSC,Female population age 6 and over with completed secondary education
+EDEDATWSPR,Percentage of the de facto female household population age 6 and over with no education education,,ED_EDAT_W_SPR,Female population age 6 and over with some primary education
+EDEDATWSSC,Percentage of the de facto female household population age 6 and over with completed primary education,,ED_EDAT_W_SSC,Female population age 6 and over with some secondary education
